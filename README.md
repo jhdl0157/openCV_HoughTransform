@@ -1,4 +1,7 @@
 # openCV_HoughTransform
+
+명함의 라인을 찾아서 엣지를 찾은후에 잘라낸다
+
 <img width="293" alt="Picture2" src="https://user-images.githubusercontent.com/72914519/114187702-4017d000-9983-11eb-9514-b2e403b8418d.png">
 
 
